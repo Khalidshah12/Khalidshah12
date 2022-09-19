@@ -3,11 +3,15 @@
 <h1 align="center">Hi 👋, I'm Khalid Shah</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 <p align="center"> 
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="center" height="400px" width="80%"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="center" height="400px" width="60%"/>
 </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khalidshah12" alt="khalidshah12" /></a> </p>
 
+- 👨‍💻 All of my projects are available at [khalidshah12.github.io](khalidshah12.github.io)
+
 - 📫 How to reach me **shah.khalidshah75@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1zNiREY30w1IMiHh5IH8P8SoSiIF61wM6/view?usp=sharing](https://drive.google.com/file/d/1zNiREY30w1IMiHh5IH8P8SoSiIF61wM6/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
