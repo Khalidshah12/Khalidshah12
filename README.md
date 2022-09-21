@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Khalid Shah</h1>
 <h3 align="center">A passionate full stack web developer from Maharashtra, India</h3>
-<p align="center">
+<p align="center" display="flex" justifyContent="space-between">
   
   - 👨‍💻 All of my projects are available at [khalidshah12.github.io](khalidshah12.github.io)
 
