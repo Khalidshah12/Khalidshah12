@@ -74,8 +74,8 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Khalidshah12&hide=smalltalk&theme=algolia&layout=compact" alt="Khalidshah12" />
 </p>
 
-<p align="center" background="red"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy" background="red">
     <img src="https://github-profile-trophy.vercel.app/?username=khalidshah12" alt="khalidshah12" />
   </a> 
 </p>
