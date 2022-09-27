@@ -82,20 +82,9 @@
 
 <!----------------------------------- ---------------------------------------------------------------------- ------------------------------------>
 
-
-
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Khalidshah12.visitor-badge.issue.1&title=Github%20Visitors)
-![Github Followers](https://img.shields.io/github/followers/Khalidshah12?label=Github%20Connection&style=flat)
-
-
-<br />
-
-
 <!-- ### My GitHub Stats: -->
 
 <p>
   <img src="https://activity-graph.herokuapp.com/graph?username=Khalidshah12&show_icons=true&count_private=true&include_all_commits=true&theme=minimal&hide_border=true&radius=4" />
 </p>
 
-
-![](./profile-3d-contrib/profile-south-season-animate.svg)
