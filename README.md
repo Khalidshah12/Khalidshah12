@@ -1,11 +1,27 @@
 [![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)]()
 
 <h1 align="center">Hi 👋, I'm Khalid Shah</h1>
+
 <h3 align="center">A passionate full stack web developer from Maharashtra, India</h3>
+
+<p align="left">
+    <a href="https://github.com/Khalidshah12">
+        <img src="https://komarev.com/ghpvc/?username=AlishaMohasin&label=Profile%20views&color=0e75b6&style=flat" alt="AlishaMohasin" />
+    </a>
+    <a href="hhttps://github.com/Khalidshah12">
+        <img src="https://img.shields.io/github/followers/AlishaMohasin?label=Followers&style=social" alt="followers-count">
+    </a>
+</p>
+
 <p align="center" display="flex" justifyContent="space-between">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="center" height="400px" width="60%"/>
 </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khalidshah12" alt="khalidshah12" /></a> </p>
+
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=khalidshah12" alt="khalidshah12" />
+  </a> 
+</p>
 
 - 👨‍💻 All of my projects are available at [khalidshah12.github.io](khalidshah12.github.io)
 
