@@ -4,6 +4,11 @@
 
 <h3 align="center">A passionate full stack web developer from Maharashtra, India</h3>
 
+<p align="center" display="flex" justifyContent="space-between">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="center" height="400px" width="60%"/>
+</p>
+
+
 <p align="left">
     <a href="https://github.com/Khalidshah12">
         <img src="https://komarev.com/ghpvc/?username=Khalidshah12&label=Profile%20views&color=0e75b6&style=flat" alt="Khalidshah12" />
@@ -12,12 +17,6 @@
         <img src="https://img.shields.io/github/followers/Khalidshah12?label=Followers&style=social" alt="followers-count">
     </a>
 </p>
-
-<p align="center" display="flex" justifyContent="space-between">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="center" height="400px" width="60%"/>
-</p>
-
-
 
 - 👨‍💻 All of my projects are available at [khalidshah12.github.io](khalidshah12.github.io)
 
