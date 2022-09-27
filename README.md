@@ -93,18 +93,13 @@
 
 
 
+<!----------------------------------- GitHub Stats Section ------------------------------------>
 
-
-
-  <h2><i>My GitHub Stats</i></h2>
- 
+<h2><i>My GitHub Stats</i></h2>
 <p display="flex" align="center">
-<img alt="Jha-Vineet69's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khalidshah12&hide=smalltalk&theme=algolia&layout=compact" width="400" />
-
-  <a href="https://github.com/Khalidshah12?tab=repositories">
-    <img width="400" height="auto"  alt="Jitesh's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=Khalidshah12&show_icons=true&theme=algolia&count_private=true" />
-  </a>
-  
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Khalidshah12&hide=smalltalk&theme=algolia&layout=compact" alt="Khalidshah12" />
+    <img alt="Jha-Vineet69's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khalidshah12&hide=smalltalk&theme=algolia&layout=compact" width="400" />
+    <a href="https://github.com/Khalidshah12?tab=repositories">
+    <img width="400" height="auto"  alt="Jitesh's github stats" src="https://github-readme-stats.vercel.app/api?username=Khalidshah12&show_icons=true&theme=algolia&count_private=true" />
+    </a>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Khalidshah12&hide=smalltalk&theme=algolia&layout=compact" alt="Khalidshah12" />
 </p>
