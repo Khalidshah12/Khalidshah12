@@ -17,11 +17,7 @@
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="center" height="400px" width="60%"/>
 </p>
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=khalidshah12" alt="khalidshah12" />
-  </a> 
-</p>
+
 
 - 👨‍💻 All of my projects are available at [khalidshah12.github.io](khalidshah12.github.io)
 
@@ -66,6 +62,12 @@
     
 </p>
 
+
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=khalidshah12" alt="khalidshah12" />
+  </a> 
+</p>
 
 
 <!----------------------------------- GitHub Stats Section ------------------------------------>
