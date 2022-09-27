@@ -6,10 +6,10 @@
 
 <p align="left">
     <a href="https://github.com/Khalidshah12">
-        <img src="https://komarev.com/ghpvc/?username=AlishaMohasin&label=Profile%20views&color=0e75b6&style=flat" alt="AlishaMohasin" />
+        <img src="https://komarev.com/ghpvc/?username=Khalidshah12&label=Profile%20views&color=0e75b6&style=flat" alt="Khalidshah12" />
     </a>
     <a href="hhttps://github.com/Khalidshah12">
-        <img src="https://img.shields.io/github/followers/AlishaMohasin?label=Followers&style=social" alt="followers-count">
+        <img src="https://img.shields.io/github/followers/Khalidshah12?label=Followers&style=social" alt="followers-count">
     </a>
 </p>
 
