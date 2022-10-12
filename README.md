@@ -24,6 +24,8 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1zNiREY30w1IMiHh5IH8P8SoSiIF61wM6/view?usp=sharing)
 
+- 🔭 I’m currently working on [Myntra Clone](https://github.com/Khalidshah12/myntra-clone-9784)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/khalid-shah-0a6404231" target="blank">
