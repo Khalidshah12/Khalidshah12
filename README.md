@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **shah.khalidshah75@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1zNiREY30w1IMiHh5IH8P8SoSiIF61wM6/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1B1dtMHbWHLqLVkSklNtMphyScs94b_GY/view)
 
 - 🔭 I’m currently working on [Myntra Clone](https://github.com/Khalidshah12/myntra-clone-9784)
 
