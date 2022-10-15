@@ -5,13 +5,7 @@
 <h3 align="center">A passionate full stack web developer from Maharashtra, India</h3>
 
 <p display="flex" justifyContent="space-between">
-  - 👨‍💻 All of my projects are available at [khalidshah12.github.io](khalidshah12.github.io)
-
-  - 📫 How to reach me **shah.khalidshah75@gmail.com**
-
-  - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1B1dtMHbWHLqLVkSklNtMphyScs94b_GY/view)
-
-  - 🔭 I’m currently working on [Myntra Clone](https://github.com/Khalidshah12/myntra-clone-9784)
+  <div>sdfd</div>
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="center" height="400px" width="50%"/>
 </p>
 
