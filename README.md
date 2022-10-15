@@ -5,8 +5,13 @@
 <h3 align="center">A passionate full stack web developer from Maharashtra, India</h3>
 
 <p display="flex" justifyContent="space-between">
+   <a href="https://github.com/Khalidshah12">
+        <img src="https://komarev.com/ghpvc/?username=Khalidshah12&label=Profile%20views&color=0e75b6&style=flat" alt="Khalidshah12" />
+    </a>
+    <a href="hhttps://github.com/Khalidshah12">
+        <img src="https://img.shields.io/github/followers/Khalidshah12?label=Followers&style=social" alt="followers-count">
+    </a>
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="center" height="400px" width="60%"/>
-  <img src="" alt="" />
 </p>
 
 
