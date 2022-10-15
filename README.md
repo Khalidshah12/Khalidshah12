@@ -4,8 +4,9 @@
 
 <h3 align="center">A passionate full stack web developer from Maharashtra, India</h3>
 
-<p align="center" display="flex" justifyContent="space-between">
+<p display="flex" justifyContent="space-between">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="center" height="400px" width="60%"/>
+  <img src="" alt="" />
 </p>
 
 
