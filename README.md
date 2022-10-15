@@ -4,11 +4,9 @@
 
 <h3 align="center">A passionate full stack web developer from Maharashtra, India</h3>
 
-<p display="flex" justifyContent="space-between">
-  <div>sdfd</div>
+<p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="center" height="400px" width="50%"/>
 </p>
-
 
 <p align="left">
     <a href="https://github.com/Khalidshah12">
