@@ -16,7 +16,7 @@
         <img src="https://img.shields.io/github/followers/Khalidshah12?label=Followers&style=social" alt="followers-count">
     </a>
 </p>
-
+ 
 - 👨‍💻 All of my projects are available at [khalidshah12.github.io](khalidshah12.github.io)
 
 - 📫 How to reach me **shah.khalidshah75@gmail.com**
