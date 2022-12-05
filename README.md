@@ -17,7 +17,7 @@
     </a>
 </p>
  
-- 👨‍💻 All of my projects are available at [khalidshah12.github.io](khalidshah12.github.io)
+- 👨‍💻 All of my projects are available at [Khalidshah12.github.io](Khalidshah12.github.io)
 
 - 📫 How to reach me **shah.khalidshah75@gmail.com**
 
