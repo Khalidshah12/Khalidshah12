@@ -8,6 +8,8 @@
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="center" height="400px" width="50%"/>
 </p>
 
+
+
 <p align="left">
     <a href="https://github.com/Khalidshah12">
         <img src="https://komarev.com/ghpvc/?username=Khalidshah12&label=Profile%20views&color=0e75b6&style=flat" alt="Khalidshah12" />
@@ -36,7 +38,7 @@
 </p>
 
 
-
+<!>
 <!----------------------------------- Tech Stack Section ------------------------------------>
 
 <h2><i>Tech Stack</i></h2>
